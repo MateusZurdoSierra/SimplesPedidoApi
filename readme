@@ -1,0 +1,8 @@
+### Rodar o MongoDB
+
+### Start
+brew services start mongodb-community@7.0
+### Stop
+brew services stop mongodb-community@7.0
+### Terminal
+mongosh
